@@ -11,12 +11,12 @@ git clone https://github.com/ken-027/php-algo-program.git
 clone first the program
 
 ```batch
-php index.php --test
+php index --test
 ```
 
 unit test
 
 ```batch
-php index.php
+php index
 ```
 run the program
